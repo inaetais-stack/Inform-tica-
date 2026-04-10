@@ -7,3 +7,13 @@ https://www.canva.com/design/DAHB0HgcKdU/uht_tKpM_lbuw43VcUgKHw/view?utm_content
 
 Aula - dados aberos e uso do excel 
 https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQC3VNlGXYqgRrhq-AKhnOVmAaqV_ksRSyl00az-MRcRmcU?e=xDkCKJ
+
+Aula - Dados Abertos e uso do Ecxel
+
+https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQC3VNlGXYqgRrhq-AKhnOVmAaqV_ksRSyl00az-MRcRmcU?e=xDkCKJ
+
+[despesa_funcao.xlsx](https://github.com/user-attachments/files/26641224/despesa_funcao.xlsx)
+Atividade - Organização de tabela e criação de gráficos https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQCGT5vpr2aTQq0bK_6w4V4LARo4qNlnYsDKckeYHQgfUR4?e=kHhKJc
+
+[multas_pagas (1).xlsx](https://github.com/user-attachments/files/26641226/multas_pagas.1.xlsx)
+
