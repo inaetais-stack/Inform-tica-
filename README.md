@@ -7,6 +7,7 @@ https://www.canva.com/design/DAHB0HgcKdU/uht_tKpM_lbuw43VcUgKHw/view?utm_content
 
 Aula - dados abertos e uso do excel 
 https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQC3VNlGXYqgRrhq-AKhnOVmAaqV_ksRSyl00az-MRcRmcU?e=xDkCKJ
+<img width="847" height="512" alt="image" src="https://github.com/user-attachments/assets/48203a58-981d-487d-a50d-a1263e8fa125" />
 
 Aula - Dados Abertos e uso do Ecxel
 
