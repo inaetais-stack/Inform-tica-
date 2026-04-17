@@ -30,24 +30,29 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQAcrFE4HIRWTopcgs9awsIQAZC0Fpbydw7mdw58awu
 https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQD-LvW5cL4sS5yFANpXXIXsAQfqJiOfopzWmpEH-cra59I?e=KmhDYZ
 
 Pergunta 1
-<img width="1013" height="305" alt="image" src="https://github.com/user-attachments/assets/77156233-f70d-46ae-a341-08dec960defb" />
+<img width="989" height="306" alt="image" src="https://github.com/user-attachments/assets/3408aad1-a14b-46d8-96a6-01f999ed9c00" />
+
 
 Pergunta 2
 
-<img width="734" height="89" alt="image" src="https://github.com/user-attachments/assets/cefdafee-5daa-47e5-89c1-d2cd062fab88" />
+<img width="1130" height="320" alt="image" src="https://github.com/user-attachments/assets/f00f3440-752a-4ff9-828d-d414f0136b1e" />
+
 
 
 Pergunta 3
 
-<img width="612" height="251" alt="image" src="https://github.com/user-attachments/assets/de4c4433-204a-4192-bbe0-3ec624ee5f3e" />
+<img width="729" height="129" alt="image" src="https://github.com/user-attachments/assets/464f570a-dd6a-4250-949f-8e0da7bc78a3" />
+
 
 Pergunta 4
 
-<img width="456" height="130" alt="image" src="https://github.com/user-attachments/assets/3db3311c-121c-415f-8f97-fe08ca909dd2" />
+<img width="501" height="121" alt="image" src="https://github.com/user-attachments/assets/d244861b-1c10-4439-b6f5-a65f745d026f" />
+
 
 Pergunta 5
 
-<img width="995" height="298" alt="image" src="https://github.com/user-attachments/assets/c10e4039-0543-4d36-96d5-fa75a43ca9c6" />
+<img width="897" height="249" alt="image" src="https://github.com/user-attachments/assets/74e504a1-63ec-4810-9028-84063266cede" />
+
 
 
 
