@@ -55,4 +55,6 @@ Pergunta 5
 
 
 
+<img width="894" height="1600" alt="image" src="https://github.com/user-attachments/assets/3494dd34-924b-4a56-9284-6fb04a747db8" />
+
 
