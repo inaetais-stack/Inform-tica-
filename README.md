@@ -64,6 +64,7 @@ Pergunta 5
 <img width="1448" height="805" alt="image" src="https://github.com/user-attachments/assets/68919cc2-8d6d-490e-a007-bfd1c62e0955" />
 
 ##07/04 Aula - 8 Modelagem de dados , tratamento de dados e fórmulas DAX no Power Bi
+<img width="1310" height="721" alt="image" src="https://github.com/user-attachments/assets/99287eb6-834b-4514-8d0f-6ac15629ef26" />
 
 
 
