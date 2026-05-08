@@ -57,5 +57,15 @@ Pergunta 5
 
 <img width="894" height="1600" alt="image" src="https://github.com/user-attachments/assets/3494dd34-924b-4a56-9284-6fb04a747db8" />
 
+##23/04 Aula 7 - Tratamento de dados aberto do estado de SP no Power Bi
+<img width="1308" height="724" alt="image" src="https://github.com/user-attachments/assets/47a6dc2b-b2e5-4802-acfb-813a41d27c77" />
+
+##Atividade 2 - Tratamento de dados abertos do estado de SP no Power Bi com 3 tipos de vizualizações sobre emissão de CNH
+<img width="1448" height="805" alt="image" src="https://github.com/user-attachments/assets/68919cc2-8d6d-490e-a007-bfd1c62e0955" />
+
+##07/04 Aula - 8 Modelagem de dados , tratamento de dados e fórmulas DAX no Power Bi
+
+
+
 
 
