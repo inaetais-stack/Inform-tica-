@@ -46,5 +46,7 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQD-LvW5cL4sS5yFANpXXIXsAQfqJiOfopzWmpEH-cr
 ## <img width="1590" height="759" alt="image" src="https://github.com/user-attachments/assets/7d3ca5fa-fa9d-4d5d-b451-fcdd0a8f8c31" />
 
 ## 15/05 - Aula 10 - Regressão linear simples usando conjunto de dados 
+https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_cps_sp_gov_br/IQDiilPmFFBvQq3wU0Q9ECa0AfdSrYVTi8KIsNB8Ia_xqkY?e=oKsJcc
+
 
 
