@@ -33,7 +33,7 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQD-LvW5cL4sS5yFANpXXIXsAQfqJiOfopzWmpEH-cr
 ## 23/04 Aula 7 - Tratamento de dados aberto do estado de SP no Power Bi
 <img width="1308" height="724" alt="image" src="https://github.com/user-attachments/assets/47a6dc2b-b2e5-4802-acfb-813a41d27c77" />
 
-
+Regressão Linear Python.
 <img width="846" height="514" alt="image" src="https://github.com/user-attachments/assets/b8d15e42-1fae-4af7-bfe6-b70e8ba03182" />
 
 
