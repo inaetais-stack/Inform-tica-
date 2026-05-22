@@ -34,6 +34,9 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQD-LvW5cL4sS5yFANpXXIXsAQfqJiOfopzWmpEH-cr
 <img width="1308" height="724" alt="image" src="https://github.com/user-attachments/assets/47a6dc2b-b2e5-4802-acfb-813a41d27c77" />
 
 
+<img width="846" height="514" alt="image" src="https://github.com/user-attachments/assets/b8d15e42-1fae-4af7-bfe6-b70e8ba03182" />
+
+
 ## Atividade 2 - Tratamento de dados abertos do estado de SP no Power Bi com 3 tipos de vizualizações sobre emissão de CNH
 <img width="1448" height="805" alt="image" src="https://github.com/user-attachments/assets/68919cc2-8d6d-490e-a007-bfd1c62e0955" />
 
