@@ -53,4 +53,8 @@ https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_
 
 <img width="820" height="330" alt="image" src="https://github.com/user-attachments/assets/b9023dd3-fb48-440c-9428-3010882ae35b" />
 
+## Atividade 3 - Construção do dashboard a partir dos dados ice-cream e consumo de cerveja
+https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQAGYyj0oPP9Q4erkcJNfUcaAcDBvLaY4tHU2980c3EYTJ8?e=oqaRwd
+
+<img width="532" height="354" alt="image" src="https://github.com/user-attachments/assets/e998356a-1e04-451a-9732-111bcb488c52" />
 
