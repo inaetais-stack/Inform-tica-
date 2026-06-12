@@ -54,6 +54,13 @@ https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_
 <img width="820" height="330" alt="image" src="https://github.com/user-attachments/assets/b9023dd3-fb48-440c-9428-3010882ae35b" />
 
 ## Atividade 3 - Construção do dashboard a partir dos dados ice-cream e consumo de cerveja
+
+## Curso Power BI 05/06
+[Certificate_786014_102_147p1.pdf](https://github.com/user-attachments/files/28861086/Certificate_786014_102_147p1.pdf)
+
+
+<img width="1025" height="714" alt="image" src="https://github.com/user-attachments/assets/1d5629fa-24f1-4d0e-9a33-a459c3024a55" />
+
 https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQAGYyj0oPP9Q4erkcJNfUcaAcDBvLaY4tHU2980c3EYTJ8?e=oqaRwd
 
 <img width="532" height="354" alt="image" src="https://github.com/user-attachments/assets/e998356a-1e04-451a-9732-111bcb488c52" />
