@@ -65,5 +65,11 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQAGYyj0oPP9Q4erkcJNfUcaAcDBvLaY4tHU2980c3E
 <img width="1025" height="714" alt="image" src="https://github.com/user-attachments/assets/1d5629fa-24f1-4d0e-9a33-a459c3024a55" />
 
 
+## Download municípios.csv (IBGE) 
+## Acessar "Dados abertos de SP" e fazer o download de Agricultura - Agropecuária - Cabeças de animais 
+## Fazer um dasboard com 3 visualizações 
+## Responda quais os municípios possuem a maior quantidade de rebanho por tipo em 2024
+
+<img width="1440" height="813" alt="image" src="https://github.com/user-attachments/assets/be3337d1-6b2d-416c-845d-1ecee410e08e" />
 
 
